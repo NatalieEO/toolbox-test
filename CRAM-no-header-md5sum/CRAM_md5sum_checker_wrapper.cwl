@@ -1,5 +1,5 @@
 cwlVersion: v1.0
-class: Workflow
+class: CommandLineTool
 
 dct:creator:
   '@id':  https://orcid.org/0000-0001-5173-4627
